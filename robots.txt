@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dokrok.com/sitemap.xml
